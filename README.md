@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **[Oskar]**, a 20 year old studying [Informatik/Computational Science]([https://www.uni-potsdam.de/en/](https://www.uni-potsdam.de/de/studium/studienangebot/bachelor/ein-fach-bachelor/informatikcomputational-science-ein-fach-bachelor)https://www.uni-potsdam.de/de/studium/studienangebot/bachelor/ein-fach-bachelor/informatikcomputational-science-ein-fach-bachelor) at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
+👋 Hi there! I'm **[Oskar]**, a 20 year old studying Informatik/Computational Science at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
