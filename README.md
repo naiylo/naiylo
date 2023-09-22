@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **naiylo/naiylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to My GitHub Profile!
+
+👋 Hi there! I'm [Oskar], a [20] student studying [Computational Science] at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
