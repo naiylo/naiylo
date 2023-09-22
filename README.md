@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **[Oskar]**, a 20 year old studying Informatik/Computational Science at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
+👋 Hi there! I'm **Oskar**, a 20 year old studying Informatik/Computational Science at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
