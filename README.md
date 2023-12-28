@@ -1,3 +1,7 @@
+# Welcome to My GitHub Profile!
+
+👋 Hi there! I'm **Oskar**, a 21 year old studying Informatik/Computational Science at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
+
 <!--
 **naiylo/naiylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **Oskar**, a 21 year old studying Informatik/Computational Science at the [University of Potsdam](https://www.uni-potsdam.de/en/). 
