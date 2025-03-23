@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **Oskar**, a 22 year old studying Informatik/Computational Science at the [Hasso Plattner Institute](https://hpi.de/). 
+👋 Hi there! I'm **Oskar**, a 22 year old studying Computer Science at the [Hasso Plattner Institute](https://hpi.de/). 
 
 <!--
 **naiylo/naiylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
